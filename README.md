@@ -36,3 +36,9 @@ The default temperatures and ranges can be modified in the code, as can the pins
 ![transient_1](https://user-images.githubusercontent.com/6553778/143453168-3dc61ea8-c763-4397-8236-60717914a795.png)
 
 ![transient_2](https://user-images.githubusercontent.com/6553778/143453198-d638395d-837c-45df-9e90-21f2bc6f0eb5.png)
+
+## Example Build
+
+![20210131_172906](https://user-images.githubusercontent.com/6553778/143454776-65fbd97f-c260-48c5-9376-1b4d9c282a0d.png)
+
+![20210115_145444](https://user-images.githubusercontent.com/6553778/143454797-7ce82806-ff72-40fe-8cbc-887099fc1e87.png)
