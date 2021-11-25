@@ -31,5 +31,8 @@ If there is no valid temperature reading, closed-loop modes will set the power t
 
 The default temperatures and ranges can be modified in the code, as can the pins used for the various interfaces (The MOSFET driver should stay on pin9 as this is hardwired to the timer used).
 
+## Transient behaviour:
+
 ![transient_1](https://user-images.githubusercontent.com/6553778/143453168-3dc61ea8-c763-4397-8236-60717914a795.png)
+
 ![transient_2](https://user-images.githubusercontent.com/6553778/143453198-d638395d-837c-45df-9e90-21f2bc6f0eb5.png)
