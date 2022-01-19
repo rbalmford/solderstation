@@ -2,6 +2,8 @@
 
 **_Arduino-based soldering iron temperature controller_**
 
+![20210115_145444](https://user-images.githubusercontent.com/6553778/143454797-7ce82806-ff72-40fe-8cbc-887099fc1e87.png)
+
 This has been designed to control a 24v 50W iron, in my case an Antex TC50, although any iron with a thermocouple sensor should be suitable.
 
 **Features:**
@@ -40,5 +42,3 @@ The default temperatures and ranges can be modified in the code, as can the pins
 ## Example Build
 
 ![20210131_172906](https://user-images.githubusercontent.com/6553778/143454776-65fbd97f-c260-48c5-9376-1b4d9c282a0d.png)
-
-![20210115_145444](https://user-images.githubusercontent.com/6553778/143454797-7ce82806-ff72-40fe-8cbc-887099fc1e87.png)
