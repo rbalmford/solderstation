@@ -1,17 +1,17 @@
 # solderstation
 
-Arduino-based soldering iron temperature controller.
+**_Arduino-based soldering iron temperature controller_**
 
-It has been designed to control a 24v 50W iron, in my case an Antex TC50, although any iron with a thermocouple sensor should be suitable.
+This has been designed to control a 24v 50W iron, in my case an Antex TC50, although any iron with a thermocouple sensor should be suitable.
 
-Features:
+**Features:**
 
 - Closed-loop temperature control, setting 25-450C (adjustable in code)
 - IDLE mode maintains a lower temperature (set in code), also closed-loop
 - OPEN loop mode with selectable constant power
 - Display shows mode/set temperature, and current power level
 
-The list of parts used is as follows:
+The **list of parts** used is as follows:
 
 - Arduino UNO R3 (any clone will do) + prototype shield/PCB
 - MOSFET driver module (D4148)
@@ -21,7 +21,7 @@ The list of parts used is as follows:
 - 3 buttons
 - Connector for soldering iron
 - Enclosure of your choice
-- 24v 3A SMPS + socket
+- 24v DC 2.5A+ SMPS
 
 The controller starts in IDLE mode, set to 150C.
 A short press of the mode button toggles between this and ON mode, where the temperature can be adjusted via the up/down buttons.
